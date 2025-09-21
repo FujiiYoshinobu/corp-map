@@ -1,0 +1,337 @@
+{
+  "01": {
+    "prefecture_code": "01",
+    "prefecture_name": "北海道",
+    "total": 7679,
+    "industries": [
+      {
+        "code": "01",
+        "name": "製造業",
+        "value": 1348
+      },
+      {
+        "code": "02",
+        "name": "卸売・小売業",
+        "value": 978
+      },
+      {
+        "code": "03",
+        "name": "宿泊・飲食サービス業",
+        "value": 2374
+      },
+      {
+        "code": "04",
+        "name": "情報通信業",
+        "value": 1634
+      },
+      {
+        "code": "05",
+        "name": "不動産業",
+        "value": 1345
+      }
+    ],
+    "scales": [
+      {
+        "scale": "micro",
+        "label": "小規模",
+        "value": 820
+      },
+      {
+        "scale": "sme",
+        "label": "中小企業",
+        "value": 1356
+      },
+      {
+        "scale": "large",
+        "label": "大企業",
+        "value": 3152
+      }
+    ],
+    "trend": [
+      {
+        "year": "2012",
+        "value": 8143
+      },
+      {
+        "year": "2015",
+        "value": 8423
+      },
+      {
+        "year": "2018",
+        "value": 8720
+      },
+      {
+        "year": "2021",
+        "value": 8426
+      }
+    ]
+  },
+  "13": {
+    "prefecture_code": "13",
+    "prefecture_name": "東京都",
+    "total": 8234,
+    "industries": [
+      {
+        "code": "01",
+        "name": "製造業",
+        "value": 1076
+      },
+      {
+        "code": "02",
+        "name": "卸売・小売業",
+        "value": 1490
+      },
+      {
+        "code": "03",
+        "name": "宿泊・飲食サービス業",
+        "value": 1948
+      },
+      {
+        "code": "04",
+        "name": "情報通信業",
+        "value": 1483
+      },
+      {
+        "code": "05",
+        "name": "不動産業",
+        "value": 2237
+      }
+    ],
+    "scales": [
+      {
+        "scale": "micro",
+        "label": "小規模",
+        "value": 1102
+      },
+      {
+        "scale": "sme",
+        "label": "中小企業",
+        "value": 1870
+      },
+      {
+        "scale": "large",
+        "label": "大企業",
+        "value": 1606
+      }
+    ],
+    "trend": [
+      {
+        "year": "2012",
+        "value": 6352
+      },
+      {
+        "year": "2015",
+        "value": 6725
+      },
+      {
+        "year": "2018",
+        "value": 6468
+      },
+      {
+        "year": "2021",
+        "value": 6081
+      }
+    ]
+  },
+  "27": {
+    "prefecture_code": "27",
+    "prefecture_name": "大阪府",
+    "total": 8568,
+    "industries": [
+      {
+        "code": "01",
+        "name": "製造業",
+        "value": 2299
+      },
+      {
+        "code": "02",
+        "name": "卸売・小売業",
+        "value": 1718
+      },
+      {
+        "code": "03",
+        "name": "宿泊・飲食サービス業",
+        "value": 1008
+      },
+      {
+        "code": "04",
+        "name": "情報通信業",
+        "value": 2654
+      },
+      {
+        "code": "05",
+        "name": "不動産業",
+        "value": 889
+      }
+    ],
+    "scales": [
+      {
+        "scale": "micro",
+        "label": "小規模",
+        "value": 789
+      },
+      {
+        "scale": "sme",
+        "label": "中小企業",
+        "value": 3932
+      },
+      {
+        "scale": "large",
+        "label": "大企業",
+        "value": 2182
+      }
+    ],
+    "trend": [
+      {
+        "year": "2012",
+        "value": 3677
+      },
+      {
+        "year": "2015",
+        "value": 3874
+      },
+      {
+        "year": "2018",
+        "value": 4355
+      },
+      {
+        "year": "2021",
+        "value": 5129
+      }
+    ]
+  },
+  "23": {
+    "prefecture_code": "23",
+    "prefecture_name": "愛知県",
+    "total": 8868,
+    "industries": [
+      {
+        "code": "01",
+        "name": "製造業",
+        "value": 1343
+      },
+      {
+        "code": "02",
+        "name": "卸売・小売業",
+        "value": 1761
+      },
+      {
+        "code": "03",
+        "name": "宿泊・飲食サービス業",
+        "value": 2515
+      },
+      {
+        "code": "04",
+        "name": "情報通信業",
+        "value": 875
+      },
+      {
+        "code": "05",
+        "name": "不動産業",
+        "value": 2374
+      }
+    ],
+    "scales": [
+      {
+        "scale": "micro",
+        "label": "小規模",
+        "value": 1224
+      },
+      {
+        "scale": "sme",
+        "label": "中小企業",
+        "value": 2606
+      },
+      {
+        "scale": "large",
+        "label": "大企業",
+        "value": 3736
+      }
+    ],
+    "trend": [
+      {
+        "year": "2012",
+        "value": 6979
+      },
+      {
+        "year": "2015",
+        "value": 7658
+      },
+      {
+        "year": "2018",
+        "value": 8414
+      },
+      {
+        "year": "2021",
+        "value": 8659
+      }
+    ]
+  },
+  "40": {
+    "prefecture_code": "40",
+    "prefecture_name": "福岡県",
+    "total": 10591,
+    "industries": [
+      {
+        "code": "01",
+        "name": "製造業",
+        "value": 1615
+      },
+      {
+        "code": "02",
+        "name": "卸売・小売業",
+        "value": 2628
+      },
+      {
+        "code": "03",
+        "name": "宿泊・飲食サービス業",
+        "value": 2375
+      },
+      {
+        "code": "04",
+        "name": "情報通信業",
+        "value": 2123
+      },
+      {
+        "code": "05",
+        "name": "不動産業",
+        "value": 1850
+      }
+    ],
+    "scales": [
+      {
+        "scale": "micro",
+        "label": "小規模",
+        "value": 1489
+      },
+      {
+        "scale": "sme",
+        "label": "中小企業",
+        "value": 4005
+      },
+      {
+        "scale": "large",
+        "label": "大企業",
+        "value": 3805
+      }
+    ],
+    "trend": [
+      {
+        "year": "2012",
+        "value": 8824
+      },
+      {
+        "year": "2015",
+        "value": 9490
+      },
+      {
+        "year": "2018",
+        "value": 9949
+      },
+      {
+        "year": "2021",
+        "value": 10316
+      }
+    ]
+  }
+}
